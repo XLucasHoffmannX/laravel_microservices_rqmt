@@ -17,9 +17,9 @@
 <br />
 
 ## Run
-> Serviço 1 - Admin : http://localhost:8000 - Mysql localhost:33063
+> Serviço 1 - Admin : http://localhost:8000 - Mysql <a>localhost:33063</a>
 
-> Serviço 2 - Main : http://localhost:8001 - Mysql localhost:33064
+> Serviço 2 - Main : http://localhost:8001 - Mysql <a>localhost:33064</a>
 
 - **Entrar na pasta de cada projeto e rodar `composer install`**
 - **Após isso configurar o `.env` de cada projeto como banco de dados, o drive de fila, e o message broker**
