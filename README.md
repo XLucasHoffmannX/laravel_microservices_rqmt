@@ -18,7 +18,6 @@
 
 ## Run
 > Serviço 1 - Admin : http://localhost:8000 - Mysql localhost:33063
-<br />
 
 > Serviço 2 - Main : http://localhost:8001 - Mysql localhost:33064
 
