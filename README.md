@@ -7,15 +7,19 @@
 <br />
 
 <h2>Features</h2>
-- ✅ Criação, atualização remoção e listagem de Produtos em serviço Admin
-- ✅ Criação, atualização remoção de Produtos em serviço main atraves de chamada de evento
-- ✅ Possibilidade de like de seriço main para serviço admin atraves de chamada interna
+
+<ul>
+<li>✅ Criação, atualização remoção de Produtos em serviço main atraves de chamada de evento</li>
+<li>✅ Criação, atualização remoção e listagem de Produtos em serviço Admin</li>
+<li>✅ Possibilidade de like de seriço main para serviço admin atraves de chamada interna</li>
+</ul>
 
 <br />
 
 ## Run
 > Serviço 1 - Admin : http://localhost:8000 - Mysql localhost:33063
 <br />
+
 > Serviço 2 - Main : http://localhost:8001 - Mysql localhost:33064
 
 - **Entrar na pasta de cada projeto e rodar `composer install`**
