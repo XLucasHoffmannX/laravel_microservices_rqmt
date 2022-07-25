@@ -25,6 +25,7 @@
 - **Para acessar o terminal sh de cada container execute `docker-compose exec admin sh` para o container de serviço admin e `docker-compose exec main sh` para o container do serviço main**
 - **As filas por padrao ja estao sendo executadas no container**
 <br />
+
 ## CloudAMQP
 - **Neste projeto o rabbitmq instaciado foi usado em cloud**
 - **Acesse em <a>https://www.cloudamqp.com/</a> para criar uma instância própria**
